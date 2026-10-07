@@ -24,3 +24,5 @@ Basado en la tesis de Sandra L. de la Fuente (CICATA-IPN, 2015) y su base DB-201
 ## Pendiente
 - Correr el notebook con los DICOM reales; revisar `vistas_revision.csv` si faltan etiquetas DICOM de vista.
 - Validar las etiquetas extraídas con el radiólogo; desplegar API y app en Lovable.
+
+Nota: Por privacidad de datos, el acceso es restringido. Favor de solicitar más información al correo contacto@sandradelafuente.com
